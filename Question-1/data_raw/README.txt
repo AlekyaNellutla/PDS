@@ -1,5 +1,9 @@
-1. The data set contains 5 different attributes: Height(Inches), Weight(Pounds), Age, Grip strength, Frailty.
+The data set contains 5 different attributes: Height(Inches), Weight(Pounds), Age, Grip strength, Frailty.
 
-2. Here we are trying to build a predictive model for the data set.
+Here, Height is represented in inches.
+Weight is represented in pounds.
+Age is represented in years.
+Grip strength is represented in pounds.
+Frailty means tendency of weakness.
 
 
